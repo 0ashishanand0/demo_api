@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\Model\Product;
+use App\Model\Review;
 use App\Http\Resources\Product\ProductResource;
 use Illuminate\Http\Request;
 
